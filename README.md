@@ -46,7 +46,10 @@ dsa-java/
 ├── linked-list/
 ├── recursion/
 ├── trees/
+├── bit-manipulation/
+├── math/
 └── graphs/
+
 
 Each folder contains solutions grouped by problem pattern/topic.
 
@@ -66,13 +69,17 @@ Each folder contains solutions grouped by problem pattern/topic.
 - Missing Number (268)
 - Majority Element (169)
 - Valid Palindrome (125)
+- Two Sum II - Input Array Is Sorted (167)
 - Container With Most Water (11)
 - Trapping Rain Water (42)
+- Product of Array Except Self (238)
 - Spiral Matrix (54)
 - Search a 2D Matrix (74)
-- Product of Array Except Self (238)
+- Matrix Diagonal Sum (1572)
 - Robot Return to Origin (657)
 - Length of Last Word (58)
+- Counting Bits (338)
+- Pow(x, n) (50)
 - Palindrome Number (9)
 
 ---
